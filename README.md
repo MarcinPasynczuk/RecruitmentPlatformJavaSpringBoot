@@ -4,6 +4,11 @@ With MealmarJobs, you can easily submit your application by uploading your perso
 
 ![image](https://user-images.githubusercontent.com/110817419/230411885-1f61be38-41c5-435b-bd16-10a7f78c5953.png)
 
-![image](https://user-images.githubusercontent.com/110817419/230412048-c57642ae-163b-4b97-8ae1-b0b7cf1fb45e.png)
+![image](https://user-images.githubusercontent.com/110817419/230412416-643bb251-e911-47ee-bf0a-807ea53138c4.png)
 
+![image](https://user-images.githubusercontent.com/110817419/230412742-45611b77-b799-40cb-83dd-305b8aab4dc0.png)
+
+You can easly download cv or cover letter.
+
+![image](https://user-images.githubusercontent.com/110817419/230412971-8a92e95d-e1b8-4a53-b7e2-cebc2096729b.png)
 
