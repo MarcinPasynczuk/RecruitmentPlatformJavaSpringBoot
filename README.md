@@ -11,7 +11,7 @@ With MealmarJobs, you can easily submit your application by uploading your perso
 Mailing system:
 ![image](https://user-images.githubusercontent.com/110817419/230413618-ac392170-3da3-45d0-8848-dba6f5237fcd.png)
 
-
+Easy GUI for the recruiters:
 ![image](https://user-images.githubusercontent.com/110817419/230412742-45611b77-b799-40cb-83dd-305b8aab4dc0.png)
 
 You can easly download cv or cover letter.
