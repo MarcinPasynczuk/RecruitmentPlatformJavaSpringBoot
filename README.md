@@ -21,7 +21,7 @@ You can easly download cv or cover letter.
 Contact us page, you can easly contact with member of our team:
 ![image](https://user-images.githubusercontent.com/110817419/230414415-fb3446ae-190a-4671-9fab-cc0c83c72bdf.png)
 
-You will get copy of your message as well:
+You will get as well a copy of your message:
 ![image](https://user-images.githubusercontent.com/110817419/230414665-3f602a3f-ee7c-4541-a3d3-80f320a8376a.png)
 
 
