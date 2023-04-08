@@ -1,7 +1,7 @@
 # MealmarJobs
 
 With MealmarJobs, you can easily submit your application by uploading your personal details, CV, cover letter or you can send message directly to our business email. 
-As a recruiter you have user-friendly GUI to check and work with CVs. 
+As a recruiter you have user-friendly GUI to check and work with CVs.  
 
 ![image](https://user-images.githubusercontent.com/110817419/230411885-1f61be38-41c5-435b-bd16-10a7f78c5953.png)
 
