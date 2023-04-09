@@ -20,7 +20,7 @@ You can easly download cv or cover letter.
 ![image](https://user-images.githubusercontent.com/110817419/230412971-8a92e95d-e1b8-4a53-b7e2-cebc2096729b.png)
 
 Contact us page, you can easly contact with member of our team:
-![image](https://user-images.githubusercontent.com/110817419/230414415-fb3446ae-190a-4671-9fab-cc0c83c72bdf.png)
+![image](https://user-images.githubusercontent.com/110817419/230785234-d7febcfc-048d-493c-ad6a-f9b5d5d95742.png)
 
 You will get as well a copy of your message:
 ![image](https://user-images.githubusercontent.com/110817419/230414665-3f602a3f-ee7c-4541-a3d3-80f320a8376a.png)
