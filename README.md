@@ -13,7 +13,7 @@ Mailing system:
 ![image](https://user-images.githubusercontent.com/110817419/230413618-ac392170-3da3-45d0-8848-dba6f5237fcd.png)
 
 Easy GUI for the recruiters:
-![image](https://user-images.githubusercontent.com/110817419/230412742-45611b77-b799-40cb-83dd-305b8aab4dc0.png)
+![image](https://user-images.githubusercontent.com/110817419/230881184-4af3e7ef-651a-49c9-bc7e-23afff7e6db6.png)
 
 You can easly download cv or cover letter.
 
