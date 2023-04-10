@@ -37,6 +37,7 @@ public class EmployeeListController {
         List<Employee> nextStageEmployees = allEmployees.stream()
                 .filter(Employee::isCvMovedNextStage)
                 .collect(Collectors.toList());
+        employees.sort((emp1, emp2) -> Boolean.compare(emp1.isCvChecked(), emp2.isCvChecked()));
         model.addAttribute("employees", employees);
         model.addAttribute("nextStageEmployees", nextStageEmployees);
         return "employee-list";
