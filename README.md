@@ -7,7 +7,7 @@ As a recruiter you have user-friendly GUI to check and work with CVs.
  
  
  
-![image](https://user-images.githubusercontent.com/110817419/230412416-643bb251-e911-47ee-bf0a-807ea53138c4.png) 
+![image](https://user-images.githubusercontent.com/110817419/230412416-643bb251-e911-47ee-bf0a-807ea53138c4.png)  
 
 Mailing system:
 ![image](https://user-images.githubusercontent.com/110817419/230413618-ac392170-3da3-45d0-8848-dba6f5237fcd.png)
