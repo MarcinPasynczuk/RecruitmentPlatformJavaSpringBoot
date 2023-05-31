@@ -4,7 +4,7 @@ With MealmarJobs, you can easily submit your application by uploading your perso
 As a recruiter you have user-friendly GUI to check and work with CVs.   
  
 ![image](https://user-images.githubusercontent.com/110817419/230411885-1f61be38-41c5-435b-bd16-10a7f78c5953.png)
- 
+  
  
  
 ![image](https://user-images.githubusercontent.com/110817419/230412416-643bb251-e911-47ee-bf0a-807ea53138c4.png)  
