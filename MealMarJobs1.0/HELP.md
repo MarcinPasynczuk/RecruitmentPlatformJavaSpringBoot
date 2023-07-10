@@ -7,7 +7,7 @@ For further reference, please consider the following sections:
 * [Spring Boot Maven Plugin Reference Guide](https://docs.spring.io/spring-boot/docs/3.1.0-M2/maven-plugin/reference/html/)
 * [Create an OCI image](https://docs.spring.io/spring-boot/docs/3.1.0-M2/maven-plugin/reference/html/#build-image)
 * [Spring Boot DevTools](https://docs.spring.io/spring-boot/docs/3.1.0-M2/reference/htmlsingle/#using.devtools)
-* [Spring Web](https://docs.spring.io/spring-boot/docs/3.1.0-M2/reference/htmlsingle/#web)
+* [Spring Web](https://docs.spring.io/spring-boot/docs/3.1.0-M2/reference/htmlsingle/#web) 
 * [Spring Data JPA](https://docs.spring.io/spring-boot/docs/3.1.0-M2/reference/htmlsingle/#data.sql.jpa-and-spring-data)
 * [Spring Security](https://docs.spring.io/spring-boot/docs/3.1.0-M2/reference/htmlsingle/#web.security)
 * [Validation](https://docs.spring.io/spring-boot/docs/3.1.0-M2/reference/htmlsingle/#io.validation)
